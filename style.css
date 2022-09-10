@@ -62,14 +62,18 @@ img {
 }
 
 section {
-    max-width: 800px;
+    max-width: 1000px;
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    border: 1px solid red;
+    margin: 0 auto;
 }
 
 .item {
     width: 200px;
     height: 200px;
-    margin: 2px;
+    margin: 10px;
+    border: 1px solid red;
 }
