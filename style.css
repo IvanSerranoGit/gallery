@@ -67,7 +67,6 @@ section {
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
-    border: 1px solid red;
     margin: 0 auto;
 }
 
@@ -75,5 +74,4 @@ section {
     width: 200px;
     height: 200px;
     margin: 10px;
-    border: 1px solid red;
 }
